@@ -1,0 +1,12 @@
+header {background-color: #ff0000; width:100%; height: 250px;}
+footer {background-color: #0000ff; width:100%; height: 250px;}
+ h1{color:red;}
+
+ th#A1 { background-color:lime; color:blue;}
+ th#A2 { background-color: aqua; color:red;}
+ th#A3 { background-color: pink; color:#6633ff;}
+ th#A4 { background-color: yellow; color:#ff66ff;}
+ th#A5 {background-color: red; color:#ffcc00;}
+ th#A6 {background-color: #66ccff; color:#6666ff;}
+ th#A7 {background-color: lightblue;color:#ffff99;}
+ th#A8 {background-color: blue; color:#ff99cc;}
